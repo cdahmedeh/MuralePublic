@@ -1,2 +1,2 @@
-murale-0.3
-Murale 0.3 Alpha Fundamentum
+murale-0.3.1
+Murale 0.3.1 Beta Paludamentum
